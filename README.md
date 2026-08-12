@@ -80,23 +80,23 @@ That exploration has pointed me toward **analyst-track roles across data analyti
 
 [📄 View Full Paper (PDF)](assets/Final%20Capstone%20Paper.pdf)
 
-**Context:** Independent econometrics capstone paper (Boise State University) testing whether public social spending reduces poverty across OECD countries, and whether that effect depends on institutional quality. Built a panel dataset of 31 OECD countries from 2000–2022 (OECD Social Expenditure Database + Global Data Lab corruption indices).
-**My Role:** Sole author and analyst; designed the research question, assembled and cleaned the panel dataset, specified and estimated a Two-Way Fixed Effects regression in Stata across 8 nested model specifications, and built an interaction term to test whether corruption moderates the poverty-reducing effect of social spending.
+**Context:** Independent econometrics capstone paper (Boise State University) testing whether public social spending reduces poverty across OECD countries, and whether that effect depends on institutional quality. Built a panel dataset of 31 OECD countries from 2000–2022 (OECD Social Expenditure Database + Global Data Lab corruption indices).<br>
+**My Role:** Sole author and analyst; designed the research question, assembled and cleaned the panel dataset, specified and estimated a Two-Way Fixed Effects regression in Stata across 8 nested model specifications, and built an interaction term to test whether corruption moderates the poverty-reducing effect of social spending.<br>
 **Outcome:** Found social spending significantly reduces poverty (p < 0.01), but the effect is **nearly 3x stronger in low-corruption countries** than high-corruption ones (interaction term significant at p < 0.01, final model R² = 0.353, n = 481 country-year observations). Translated the finding into a concrete policy recommendation: fiscal expansion must be paired with anti-corruption/institutional reform to actually reduce poverty, not just increase spending.
 
 ### Airbnb Market Pricing Analysis
 
 [🔗 View Repository](https://github.com/alexthompson-byte/Analysis-of-AirBnb-prices)
 
-**Context:** Group statistics project analyzing 51,707 Airbnb listings across 10 European cities (12 fields covering price, room type, host status, guest satisfaction, and location indices), moving from descriptive statistics through probability analysis, hypothesis testing, and multiple linear regression.
-**My Role:** Owned the inferential and predictive modeling half of the project, ran all hypothesis testing (one-sample z-tests on price and distance-to-center, plus the confidence interval for private-room share) and built the regression model end to end: specified the initial full-variable model, diagnosed and dropped insignificant predictors (including the weekday dummy), ran multicollinearity diagnostics on the remaining nine predictors, and finalized the model used for the team's conclusions.
+**Context:** Group statistics project analyzing 51,707 Airbnb listings across 10 European cities (12 fields covering price, room type, host status, guest satisfaction, and location indices), moving from descriptive statistics through probability analysis, hypothesis testing, and multiple linear regression.<br>
+**My Role:** Owned the inferential and predictive modeling half of the project, ran all hypothesis testing (one-sample z-tests on price and distance-to-center, plus the confidence interval for private-room share) and built the regression model end to end: specified the initial full-variable model, diagnosed and dropped insignificant predictors (including the weekday dummy), ran multicollinearity diagnostics on the remaining nine predictors, and finalized the model used for the team's conclusions.<br>
 **Outcome:** Diagnosed severe right-skew in the price data (skewness ≈ 25.7) driven by a small number of luxury outliers, then built a 9-predictor regression model (bedroom count, superhost status, distance to city center, and others) explaining 14.5% of price variation (R² = 0.1452) with no multicollinearity concerns (all pairwise correlations below 0.43). Converted the results into pricing guidance for hosts; e.g., each additional bedroom adds ~$131/night, and 64% of listings price above $200/night, giving a concrete benchmark for budget vs. premium positioning.
 
 ### AI's Use for Energy Facilities and Urban Planning: An Industry Research Brief
 [📄 View Full Paper (PDF)](assets/AI%20and%20its%20use%20for%20energy%20facilities%20and%20urban%20planning.pdf)
 
-**Context:** Conducted as the foundational industry research to inform the development of an academic paper, examining how AI is being adopted across US energy infrastructure and urban planning, spanning environmental permitting and interconnection backlogs, AI-driven zoning and smart-city planning, and cybersecurity for energy facilities.
-**My Role:** Independently researched and synthesized government and industry sources — including DOE initiatives (PermitAI, AI4IX), industry adoption surveys (Honeywell, KPMG), and reporting from policy and sustainability outlets — into a structured brief organized across the three domains, identifying the throughlines the academic paper would go on to build from.
+**Context:** Conducted as the foundational industry research to inform the development of an academic paper, examining how AI is being adopted across US energy infrastructure and urban planning, spanning environmental permitting and interconnection backlogs, AI-driven zoning and smart-city planning, and cybersecurity for energy facilities.<br>
+**My Role:** Independently researched and synthesized government and industry sources — including DOE initiatives (PermitAI, AI4IX), industry adoption surveys (Honeywell, KPMG), and reporting from policy and sustainability outlets — into a structured brief organized across the three domains, identifying the throughlines the academic paper would go on to build from.<br>
 **Outcome:** Produced a fully sourced research brief (20+ government, industry, and news citations) that surfaced a consistent theme across all three domains, a trust and accountability gap around "black-box" AI decision-making, which directly shaped the scope and argument of the resulting academic paper.
 
 ---
@@ -123,7 +123,7 @@ This term I conducted informational interviews with professionals in **data anal
 ## Skills
 
 <!-- TODO: Trim/expand this list to only the tools you can actually speak to in an interview -->
-`SQL` `Python` `Excel/Google Sheets` `Data Visualization` `Financial Modeling` `PowerPoint` `Stakeholder Communication`
+`R` `Stata` `Python` `Excel/Google Sheets` `Data Visualization` `Financial Modeling` `PowerPoint` `Stakeholder Communication`
 
 ---
 
