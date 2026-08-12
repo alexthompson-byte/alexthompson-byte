@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-j-thompson-)
 
 <!-- TODO (Resume): Upload your resume PDF to this repo (e.g. /assets/Alex_Thompson_Resume.pdf) and update the link below -->
-[![Resume](https://img.shields.io/badge/Resume-Download-333333?style=flat&logo=readdotcv&logoColor=white)](Alex%20Thompson%20-%20Resume%20template.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-333333?style=flat&logo=readdotcv&logoColor=white)](assets/Alex%20Thompson.pdf)
 <!-- TODO (Email): swap in whichever email you want public -->
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomaj26@wfu.edu)
 
@@ -78,7 +78,7 @@ That exploration has pointed me toward **analyst-track roles across data analyti
 
 ### Progressivity and Prosperity: An Econometric Analysis of Redistributive Spending and Inequality
 
-[📄 View Full Paper (PDF)](Final%20Capstone%20Paper.pdf)
+[📄 View Full Paper (PDF)](assets/Final%20Capstone%20Paper.pdf)
 
 **Context:** Independent econometrics capstone paper (Boise State University) testing whether public social spending reduces poverty across OECD countries, and whether that effect depends on institutional quality. Built a panel dataset of 31 OECD countries from 2000–2022 (OECD Social Expenditure Database + Global Data Lab corruption indices).
 **My Role:** Sole author and analyst — designed the research question, assembled and cleaned the panel dataset, specified and estimated a Two-Way Fixed Effects regression in Stata across 8 nested model specifications, and built an interaction term to test whether corruption moderates the poverty-reducing effect of social spending.
@@ -93,7 +93,8 @@ That exploration has pointed me toward **analyst-track roles across data analyti
 **Outcome:** Diagnosed severe right-skew in the price data (skewness ≈ 25.7) driven by a small number of luxury outliers, then built a 9-predictor regression model (bedroom count, superhost status, distance to city center, and others) explaining 14.5% of price variation (R² = 0.1452) with no multicollinearity concerns (all pairwise correlations below 0.43). Converted the results into pricing guidance for hosts — e.g., each additional bedroom adds ~$131/night, and 64% of listings price above $200/night, giving a concrete benchmark for budget vs. premium positioning.
 
 ### [AI's Use for Energy Facilities and Urban Planning: An Industry Research Brief]
-<!-- TODO (link): Upload the Word doc to /assets in this repo (or convert to PDF first) and point the title link above at it. -->
+[📄 View Full Paper (PDF)](assets/AI%20and%20its%20use%20for%20energy%20facilities%20and%20urban%20planning.docx)
+
 **Context:** Conducted as the foundational industry research to inform the development of an academic paper, examining how AI is being adopted across US energy infrastructure and urban planning — spanning environmental permitting and interconnection backlogs, AI-driven zoning and smart-city planning, and cybersecurity for energy facilities.
 **My Role:** Independently researched and synthesized government and industry sources — including DOE initiatives (PermitAI, AI4IX), industry adoption surveys (Honeywell, KPMG), and reporting from policy and sustainability outlets — into a structured brief organized across the three domains, identifying the throughlines the academic paper would go on to build from.
 **Outcome:** Produced a fully sourced research brief (20+ government, industry, and news citations) that surfaced a consistent theme across all three domains — a trust and accountability gap around "black-box" AI decision-making — which directly shaped the scope and argument of the resulting academic paper.
