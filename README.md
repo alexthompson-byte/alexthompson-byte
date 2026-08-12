@@ -7,7 +7,8 @@
 *Wake Forest University · Exploring roles in Data Analytics, Financial Advising & Regulatory/Pricing Analysis*
 
 <!-- TODO (LinkedIn): Replace YOUR-LINKEDIN-USERNAME below with your actual LinkedIn handle -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-j-thompson-)
+
 <!-- TODO (Resume): Upload your resume PDF to this repo (e.g. /assets/Alex_Thompson_Resume.pdf) and update the link below -->
 [![Resume](https://img.shields.io/badge/Resume-Download-333333?style=flat&logo=readdotcv&logoColor=white)](./assets/Alex_Thompson_Resume.pdf)
 <!-- TODO (Email): swap in whichever email you want public -->
