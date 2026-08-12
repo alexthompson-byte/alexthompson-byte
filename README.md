@@ -76,13 +76,17 @@ That exploration has pointed me toward **analyst-track roles across data analyti
   writeup, or PDF wherever possible.
 -->
 
-### [Progressivity and Prosperity: An Econometric Analysis of Redistributive Spending and Inequality](Final Capstone Paper.pdf)
+### Progressivity and Prosperity: An Econometric Analysis of Redistributive Spending and Inequality
+
+[📄 View Full Paper (PDF)](Final%20Capstone%20Paper.pdf)
 
 **Context:** Independent econometrics capstone paper (Boise State University) testing whether public social spending reduces poverty across OECD countries, and whether that effect depends on institutional quality. Built a panel dataset of 31 OECD countries from 2000–2022 (OECD Social Expenditure Database + Global Data Lab corruption indices).
 **My Role:** Sole author and analyst — designed the research question, assembled and cleaned the panel dataset, specified and estimated a Two-Way Fixed Effects regression in Stata across 8 nested model specifications, and built an interaction term to test whether corruption moderates the poverty-reducing effect of social spending.
 **Outcome:** Found social spending significantly reduces poverty (p < 0.01), but the effect is **nearly 3x stronger in low-corruption countries** than high-corruption ones (interaction term significant at p < 0.01, final model R² = 0.353, n = 481 country-year observations). Translated the finding into a concrete policy recommendation: fiscal expansion must be paired with anti-corruption/institutional reform to actually reduce poverty, not just increase spending.
 
-### [Airbnb Market Pricing Analysis](GroupAirBnb 8.10.26.xlsx)
+### Airbnb Market Pricing Analysis
+
+[🔗 View Repository](https://github.com/alexthompson-byte/Analysis-of-AirBnb-prices)
 
 **Context:** Group statistics project analyzing 51,707 Airbnb listings across 10 European cities (12 fields covering price, room type, host status, guest satisfaction, and location indices), moving from descriptive statistics through probability analysis, hypothesis testing, and multiple linear regression.
 **My Role:** Owned the inferential and predictive modeling half of the project — ran all hypothesis testing (one-sample z-tests on price and distance-to-center, plus the confidence interval for private-room share) and built the regression model end to end: specified the initial full-variable model, diagnosed and dropped insignificant predictors (including the weekday dummy), ran multicollinearity diagnostics on the remaining nine predictors, and finalized the model used for the team's conclusions.
