@@ -75,20 +75,17 @@ That exploration has pointed me toward **analyst-track roles across data analyti
   writeup, or PDF wherever possible.
 -->
 
-### [Project Title Here](#)
-**Context:** One or two sentences on what this project was and why it mattered.
-**My Role:** What you specifically did (not the whole team's work).
-**Outcome:** A measurable result — a number, a decision it informed, a grade, a metric improved.
+### [Progressivity and Prosperity: An Econometric Analysis of Redistributive Spending and Inequality](Final Capstone Paper.pdf)
 
-### [Project Title Here](#)
-**Context:** …
-**My Role:** …
-**Outcome:** …
+**Context:** Independent econometrics capstone paper (Boise State University) testing whether public social spending reduces poverty across OECD countries, and whether that effect depends on institutional quality. Built a panel dataset of 31 OECD countries from 2000–2022 (OECD Social Expenditure Database + Global Data Lab corruption indices).
+**My Role:** Sole author and analyst — designed the research question, assembled and cleaned the panel dataset, specified and estimated a Two-Way Fixed Effects regression in Stata across 8 nested model specifications, and built an interaction term to test whether corruption moderates the poverty-reducing effect of social spending.
+**Outcome:** Found social spending significantly reduces poverty (p < 0.01), but the effect is **nearly 3x stronger in low-corruption countries** than high-corruption ones (interaction term significant at p < 0.01, final model R² = 0.353, n = 481 country-year observations). Translated the finding into a concrete policy recommendation: fiscal expansion must be paired with anti-corruption/institutional reform to actually reduce poverty, not just increase spending.
 
-### [Project Title Here](#)
-**Context:** …
-**My Role:** …
-**Outcome:** …
+### [Airbnb Market Pricing Analysis](GroupAirBnb 8.10.26.xlsx)
+
+**Context:** Group statistics project analyzing 51,707 Airbnb listings across 10 European cities (12 fields covering price, room type, host status, guest satisfaction, and location indices), moving from descriptive statistics through probability analysis, hypothesis testing, and multiple linear regression.
+**My Role:** Owned the inferential and predictive modeling half of the project — ran all hypothesis testing (one-sample z-tests on price and distance-to-center, plus the confidence interval for private-room share) and built the regression model end to end: specified the initial full-variable model, diagnosed and dropped insignificant predictors (including the weekday dummy), ran multicollinearity diagnostics on the remaining nine predictors, and finalized the model used for the team's conclusions.
+**Outcome:** Diagnosed severe right-skew in the price data (skewness ≈ 25.7) driven by a small number of luxury outliers, then built a 9-predictor regression model (bedroom count, superhost status, distance to city center, and others) explaining 14.5% of price variation (R² = 0.1452) with no multicollinearity concerns (all pairwise correlations below 0.43). Converted the results into pricing guidance for hosts — e.g., each additional bedroom adds ~$131/night, and 64% of listings price above $200/night, giving a concrete benchmark for budget vs. premium positioning.
 
 ---
 
@@ -121,7 +118,7 @@ This term I conducted informational interviews with professionals in **data anal
 ## Let's Connect
 
 <!-- TODO (LinkedIn): duplicate of the badge above, but make sure both links point to the same real URL -->
-I'm actively exploring opportunities in data analytics and financial services — reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) or by [email](mailto:thomaj26@wfu.edu).
+I'm actively exploring opportunities in data analytics and financial services — reach out on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/alex-j-thompson-/)) or by [email](mailto:thomaj26@wfu.edu).
 
 <div align="center">
 <sub>Portfolio last updated: <!-- TODO: update this date whenever you edit --> August 2026</sub>
