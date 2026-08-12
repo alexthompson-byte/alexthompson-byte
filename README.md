@@ -119,7 +119,7 @@ This term I conducted informational interviews with professionals in **data anal
 ## Let's Connect
 
 <!-- TODO (LinkedIn): duplicate of the badge above, but make sure both links point to the same real URL -->
-I'm actively exploring opportunities in data analytics and financial services — reach out on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/alex-j-thompson-/)) or by [email](mailto:thomaj26@wfu.edu).
+I'm actively exploring opportunities in data analytics and financial services — reach out on [LinkedIn](https://www.linkedin.com/in/alex-j-thompson-) or by [email](mailto:thomaj26@wfu.edu).
 
 <div align="center">
 <sub>Portfolio last updated: <!-- TODO: update this date whenever you edit --> August 2026</sub>
