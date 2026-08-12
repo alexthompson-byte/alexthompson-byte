@@ -1,7 +1,7 @@
 <div align="center">
 
 # Alex Thompson
-### Aspiring Analyst — Bridging Data, Strategy & Client Communication
+### Aspiring Analyst: Bridging Data, Strategy & Client Communication
 
 <!-- TODO: Replace the line below with your real headline if you'd like something different -->
 *Wake Forest University · Exploring roles in Data Analytics, Financial Advising & Regulatory/Pricing Analysis*
