@@ -35,7 +35,7 @@
   [![Watch my video introduction](./assets/video-thumbnail.png)](https://youtu.be/YOUR-VIDEO-ID)
 -->
 
-*(Video will render here once you add the link — see comment above.)*
+[Video Introduction](https://github.com/user-attachments/assets/4d67c74b-cd50-4e5f-8cbd-93010a1b0713)
 
 ---
 
